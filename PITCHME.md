@@ -22,6 +22,33 @@
 1. Bootcamp for candidates <!-- .element: class="fragment" -->
 1. Career & Experience     <!-- .element: class="fragment" -->
 
+#VSLIDE
+
+### Knowledge Sharing
+
+---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+
+#VSLIDE
+
+### Approach proposals
+---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+
+#VSLIDE
+
+### Onboarding new members
+---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+
+#VSLIDE
+
+### Bootcamp for candidates
+---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+
+#VSLIDE
+
+### Career & Experience
+---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+
+
 #HSLIDE
 ### What we do
 

@@ -1,0 +1,80 @@
+
+.reveal section {
+  /* background-color: #ffffff; */
+  color: #515E65;
+  font-family: 'MuseoSans', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* increases contrast on background */
+[role=application] h2, [role=application] li, [role=application] p {
+  text-shadow: #421540 0 0 0.6em;
+}
+
+[role=application] a, [role=application] a:visited {
+  color: white;
+}
+
+/* Font: MuseoSans */
+@font-face {
+  font-family: 'MuseoSans';
+  src: url('fonts/MuseoSans/MuseoSansLight.eot');
+  src: url('fonts/MuseoSans/MuseoSansLight.eot?#iefix')format('embedded-opentype'),
+       url('fonts/MuseoSans/MuseoSansLight.woff') format('woff'),
+       url('fonts/MuseoSans/MuseoSansLight.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'MuseoSans';
+  src: url('fonts/MuseoSans/MuseoSansRegular.eot');
+  src: url('fonts/MuseoSans/MuseoSansRegular.eot?#iefix')format('embedded-opentype'),
+       url('fonts/MuseoSans/MuseoSansRegular.woff') format('woff'),
+       url('fonts/MuseoSans/MuseoSansRegular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'MuseoSans';
+  src: url('fonts/MuseoSans/MuseoSansBold.eot');
+  src: url('fonts/MuseoSans/MuseoSansBold.eot?#iefix')format('embedded-opentype'),
+       url('fonts/MuseoSans/MuseoSansBold.woff') format('woff'),
+       url('fonts/MuseoSans/MuseoSansBold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+}
+/* Font: OpenSans */
+@font-face {
+  font-family: 'OpenSan';
+  src: url('fonts/OpenSans/OpenSansLight.eot');
+  src: url('fonts/OpenSans/OpenSansLight.eot?#iefix')format('embedded-opentype'),
+       url('fonts/OpenSans/OpenSansLight.woff') format('woff'),
+       url('fonts/OpenSans/OpenSansLight.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'OpenSans';
+  src: url('fonts/OpenSans/OpenSansRegular.eot');
+  src: url('fonts/OpenSans/OpenSansRegular.eot?#iefix')format('embedded-opentype'),
+       url('fonts/OpenSans/OpenSansRegular.woff') format('wof'),
+       url('fonts/OpenSans/OpenSansRegular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'OpenSans';
+  src: url('fonts/OpenSans/OpenSansBold.eot');
+  src: url('fonts/OpenSans/OpenSansBold.eot?#iefix')format('embedded-opentype'),
+       url('fonts/OpenSans/OpenSansBold.woff') format('woff'),
+       url('fonts/OpenSans/OpenSansBold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+}
+
+/*html {
+overflow-x: hidden;
+}*/

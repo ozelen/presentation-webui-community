@@ -2,7 +2,7 @@
 
 # <span class="gold">MK</span> Web UI Community
 
-#### Internal Team Meetup
+#### Introduction
 <br>
 <br>
 <span class="byline">by Oleksiy Zelenyuk</span>

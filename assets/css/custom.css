@@ -1,6 +1,6 @@
 
 .reveal section {
-  /* background-color: #ffffff; */
+  background-color: #ffffff;
   color: #515E65;
   font-family: 'MuseoSans', sans-serif;
   font-size: 20px;
@@ -74,7 +74,3 @@
   font-style: normal;
   font-weight: 700;
 }
-
-/*html {
-overflow-x: hidden;
-}*/

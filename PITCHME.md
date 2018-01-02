@@ -10,7 +10,7 @@
 ---
 @title[Agenda]
 
-## What this is for
+### What this is for
 
 1. Knowledge sharing
 1. Approach proposals
@@ -18,13 +18,13 @@
 1. Bootcamp for candidates
 1. Career & Experience
 
-## What we do
+### What we do
 
 1. Presentations
 1. Workshops with live-coding
 1. Tools
 
-## How to
+### How to
 
 1. Share knowledge/proposal
 1. Become a trainer

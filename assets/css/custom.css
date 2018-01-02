@@ -16,56 +16,19 @@
 /* Font: MuseoSans */
 @font-face {
   font-family: 'MuseoSans';
-  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansLight.eot');
-  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansLight.eot?#iefix')format('embedded-opentype'),
-       url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansLight.woff?raw=true') format('woff'),
-       url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansLight.ttf') format('truetype');
+  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansLight.woff?raw=true') format('woff');
   font-style: normal;
   font-weight: 300;
 }
 @font-face {
   font-family: 'MuseoSans';
-  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansRegular.eot');
-  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansRegular.eot?#iefix')format('embedded-opentype'),
-       url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansRegular.woff?raw=true') format('woff'),
-       url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansRegular.ttf') format('truetype');
+  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansRegular.woff?raw=true') format('woff');
   font-style: normal;
   font-weight: 500;
 }
 @font-face {
   font-family: 'MuseoSans';
-  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansBold.eot');
-  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansBold.eot?#iefix')format('embedded-opentype'),
-       url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansBold.woff?raw=true') format('woff'),
-       url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansBold.ttf') format('truetype');
-  font-style: normal;
-  font-weight: 700;
-}
-/* Font: OpenSans */
-@font-face {
-  font-family: 'OpenSan';
-  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/OpenSans/OpenSansLight.eot');
-  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/OpenSans/OpenSansLight.eot?#iefix')format('embedded-opentype'),
-       url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/OpenSans/OpenSansLight.woff?raw=true') format('woff'),
-       url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/OpenSans/OpenSansLight.ttf') format('truetype');
-  font-style: normal;
-  font-weight: 300;
-}
-@font-face {
-  font-family: 'OpenSans';
-  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/OpenSans/OpenSansRegular.eot');
-  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/OpenSans/OpenSansRegular.eot?#iefix')format('embedded-opentype'),
-       url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/OpenSans/OpenSansRegular.woff?raw=true') format('wof'),
-       url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/OpenSans/OpenSansRegular.ttf') format('truetype');
-  font-style: normal;
-  font-weight: 500;
-}
-@font-face {
-  font-family: 'OpenSans';
-  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/OpenSans/OpenSansBold.eot');
-  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/OpenSans/OpenSansBold.eot?#iefix')format('embedded-opentype'),
-       url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/OpenSans/OpenSansBold.woff?raw=true') format('woff'),
-       url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/OpenSans/OpenSansBold.ttf') format('truetype');
+  src: url('https://github.com/ozelen/presentation-webui-community/blob/master/assets/fonts/MuseoSans/MuseoSansBold.woff?raw=true') format('woff');
   font-style: normal;
   font-weight: 700;
 }

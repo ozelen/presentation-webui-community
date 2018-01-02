@@ -14,7 +14,7 @@
 - How to           <!-- .element: class="fragment" -->
 
 #HSLIDE
-## What this is for
+## What this is for?
 
 1. Knowledge sharing       <!-- .element: class="fragment" -->
 1. Approach proposals      <!-- .element: class="fragment" -->

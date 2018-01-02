@@ -8,13 +8,13 @@
 <span class="byline">by Oleksiy Zelenyuk</span>
 
 #HSLIDE
-### AGENDA
+## AGENDA
 - What this is for <!-- .element: class="fragment" -->
 - What we do       <!-- .element: class="fragment" -->
 - How to           <!-- .element: class="fragment" -->
 
 #HSLIDE
-### What this is for
+## What this is for
 
 1. Knowledge sharing       <!-- .element: class="fragment" -->
 1. Approach proposals      <!-- .element: class="fragment" -->
@@ -24,40 +24,40 @@
 
 #VSLIDE
 
-### Knowledge Sharing
+## Knowledge Sharing
 
 ---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
 
 #VSLIDE
 
-### Approach proposals
+## Approach proposals
 ---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
 
 #VSLIDE
 
-### Onboarding new members
+## Onboarding new members
 ---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
 
 #VSLIDE
 
-### Bootcamp for candidates
+## Bootcamp for candidates
 ---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
 
 #VSLIDE
 
-### Career & Experience
+## Career & Experience
 ---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
 
 
 #HSLIDE
-### What we do
+## What we do
 
 1. Presentations              <!-- .element: class="fragment" -->
 1. Workshops with live-coding <!-- .element: class="fragment" -->
 1. Tools                      <!-- .element: class="fragment" -->
 
 #HSLIDE
-### How to
+## How to
 
 1. Share knowledge/proposal <!-- .element: class="fragment" -->
 1. Become a trainer         <!-- .element: class="fragment" -->

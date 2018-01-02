@@ -2,7 +2,7 @@
 
 # <span class="gold">MK</span> Web UI Community
 
-#### How to write better code
+#### Internal Team Meetup
 <br>
 <br>
 <span class="byline">by Oleksiy Zelenyuk</span>

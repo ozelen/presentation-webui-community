@@ -24,7 +24,7 @@
 
 ## In love with JS since 1999
 
-![Me](assets/images/this.png)
+![Logo](assets/images/this.png)
 
 #VSLIDE
 

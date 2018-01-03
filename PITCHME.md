@@ -13,7 +13,7 @@
 #VSLIDE
 
 # About me
-![Me](assets/images/ava.png)
+![Me](assets/images/me.png)
 
 - ozelen@softserveinc.com
 - Tel. 1531 (int)

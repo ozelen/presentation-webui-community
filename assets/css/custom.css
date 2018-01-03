@@ -14,7 +14,7 @@ h1, h2, h3, h4 {
 }
 
 .reveal section img {
-  max-height: 45vh;
+  max-height: 45vh !important;
 }
 
 [role=application] a, [role=application] a:visited {

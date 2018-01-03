@@ -26,15 +26,19 @@
 
 ## Knowledge Sharing
 
----?image=assets/images/manual.jpg
+Hello World
 
 #VSLIDE
 
 ## Approach proposals
 
+Hi there
+
 #VSLIDE
 
 ## Onboarding new members
+
+Something here
 
 #VSLIDE
 

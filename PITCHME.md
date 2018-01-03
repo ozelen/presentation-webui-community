@@ -45,6 +45,10 @@
 
 #VSLIDE
 
+# Onboarding
+
+![Logo](assets/images/onboarding.jpg)
+
 ## Onboarding program
 
 Steps for new members to quickly get to internal processes
@@ -53,8 +57,6 @@ Steps for new members to quickly get to internal processes
 - 1-2 weeks to start performing                                      <!-- .element: class="fragment" -->
 - Discover internal libs and frameworks (FEF, PCAS, Dev Layout, etc) <!-- .element: class="fragment" -->
 - Internal tools and processes like (Git, Jira flow, etc)            <!-- .element: class="fragment" -->
-
-![Logo](assets/images/onboarding.jpg)
 
 #VSLIDE
 

@@ -9,6 +9,10 @@
   -webkit-text-size-adjust: 100%;
 }
 
+h1, h2, h3, h4 {
+  color: #00B9D9;
+}
+
 [role=application] a, [role=application] a:visited {
   color: white;
 }

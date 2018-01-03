@@ -31,25 +31,21 @@
 #VSLIDE
 
 ## Approach proposals
----?image=assets/images/webassembly.png
 
 #VSLIDE
 
 ## Onboarding new members
----?image=assets/images/tutorial.png
 
 #VSLIDE
 
 ## Bootcamp for candidates
----?image=assets/images/onboarding.jpg
 
 #VSLIDE
 
 ## Career & Experience
----?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
-
 
 #HSLIDE
+
 ## What we do
 
 1. Presentations              <!-- .element: class="fragment" -->

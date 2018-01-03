@@ -49,6 +49,8 @@
 
 ![Logo](assets/images/onboarding.jpg)
 
+#VSLIDE
+
 ## Onboarding program
 
 Steps for new members to quickly get to internal processes

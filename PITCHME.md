@@ -37,6 +37,8 @@
 
 ## Knowledge Sharing
 
+![Logo](assets/images/knowledge-sharing.png)
+
 - Spread experience   <!-- .element: class="fragment" -->
 - Make Tech Proposals <!-- .element: class="fragment" -->
 - Socialize           <!-- .element: class="fragment" -->

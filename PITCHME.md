@@ -143,5 +143,5 @@ Things that work:
 - Vote for topic you want to listen <!-- .element: class="fragment" -->
 - Propose topic you want present <!-- .element: class="fragment" -->
 - Prepare presentation or workshop <!-- .element: class="fragment" -->
-- Present on internal syncups
-- Conduct Bootcamp
+- Present on internal syncups <!-- .element: class="fragment" -->
+- Conduct Bootcamp <!-- .element: class="fragment" -->

@@ -26,22 +26,22 @@
 
 ## Knowledge Sharing
 
----?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+---?image=assets/images/manual.jpg
 
 #VSLIDE
 
 ## Approach proposals
----?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+---?image=assets/images/webassembly.jpg
 
 #VSLIDE
 
 ## Onboarding new members
----?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+---?image=assets/images/tutorial.jpg
 
 #VSLIDE
 
 ## Bootcamp for candidates
----?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
+---?image=assets/images/onboarding.jpg
 
 #VSLIDE
 

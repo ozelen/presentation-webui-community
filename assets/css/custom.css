@@ -13,8 +13,12 @@ h1, h2, h3, h4 {
   color:#00B9D9 !important;
 }
 
+.reveal section img {
+  max-height: 45vh;
+}
+
 [role=application] a, [role=application] a:visited {
-  color: white;
+  color: #ccc;
 }
 
 /* Font: MuseoSans */

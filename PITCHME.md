@@ -16,23 +16,37 @@
 ![Me](assets/images/me.png)
 
 - ozelen@softserveinc.com
+- Skype: oleksa.zelenyuk
 - Tel. 1531 (int)
 - Github: [ozelen](https://github.com/ozelen/)
 
 #VSLIDE
 
-## About me
+## In love with JS since 1999
 
-- With JavaScript in heart since 1999     <!-- .element: class="fragment" -->
-- Love trying other languages             <!-- .element: class="fragment" -->
-- Came back to SoftServe after 3 years    <!-- .element: class="fragment" -->
-- Now at COE Solutions dep.               <!-- .element: class="fragment" -->
-- Working 100% for MK as an Architect     <!-- .element: class="fragment" -->
-- Statring new projects and discovery     <!-- .element: class="fragment" -->
+![Me](assets/images/this.png)
+
+#VSLIDE
+
+## Currently
+
+- COE Solutions                           <!-- .element: class="fragment" -->
+- Architect at MK for 4 months            <!-- .element: class="fragment" -->
+- Discover and kickstart new projects     <!-- .element: class="fragment" -->
+- Onboarding new comers                   <!-- .element: class="fragment" -->
 - Responsible for Web UI comptence group  <!-- .element: class="fragment" -->
+
+#VSLIDE
+
+## Also
+
+- Came back to SoftServe after 3 years    <!-- .element: class="fragment" -->
+- Love trying other languages             <!-- .element: class="fragment" -->
+- Love bench press                        <!-- .element: class="fragment" -->
 
 #HSLIDE
 ## AGENDA
+
 - What this is for <!-- .element: class="fragment" -->
 - What we do       <!-- .element: class="fragment" -->
 - How to           <!-- .element: class="fragment" -->
@@ -55,22 +69,20 @@
 
 ## Knowledge Sharing
 
-- Spread experience   <!-- .element: class="fragment" -->
-- Make Tech Proposals <!-- .element: class="fragment" -->
-- Present documents   <!-- .element: class="fragment" -->
-- Socialize           <!-- .element: class="fragment" -->
+- Know about each other <!-- .element: class="fragment" -->
+- Spread experience     <!-- .element: class="fragment" -->
+- Make Tech Proposals   <!-- .element: class="fragment" -->
+- Present ideas, solutions, documents, etc.         <!-- .element: class="fragment" -->
 
 #VSLIDE
-
 # Onboarding
 
 ![Logo](assets/images/manual.jpg)
 
 #VSLIDE
-
 ## Onboarding program
 
-Steps for new members to quickly get to join
+Steps for new members to join quickly
 
 - Internal candidates                                                <!-- .element: class="fragment" -->
 - 1-2 weeks to start performing                                      <!-- .element: class="fragment" -->

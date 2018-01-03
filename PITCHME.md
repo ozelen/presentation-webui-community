@@ -47,14 +47,14 @@
 
 ## Onboarding program
 
-![Logo](assets/images/onboarding.jpg)
-
 Steps for new members to quickly get to internal processes
 
 - Internal candidates                                                <!-- .element: class="fragment" -->
 - 1-2 weeks to start performing                                      <!-- .element: class="fragment" -->
 - Discover internal libs and frameworks (FEF, PCAS, Dev Layout, etc) <!-- .element: class="fragment" -->
 - Internal tools and processes like (Git, Jira flow, etc)            <!-- .element: class="fragment" -->
+
+![Logo](assets/images/onboarding.jpg)
 
 #VSLIDE
 

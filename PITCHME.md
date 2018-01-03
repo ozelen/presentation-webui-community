@@ -31,12 +31,12 @@
 #VSLIDE
 
 ## Approach proposals
----?image=assets/images/webassembly.jpg
+---?image=assets/images/webassembly.png
 
 #VSLIDE
 
 ## Onboarding new members
----?image=assets/images/tutorial.jpg
+---?image=assets/images/tutorial.png
 
 #VSLIDE
 

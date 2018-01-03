@@ -18,6 +18,12 @@ img {
   border: none !important;
 }
 
+img[alt=Me] {
+  background: #0F4970;
+  border-radius: 100%;
+  height: 200px;
+}
+
 [role=application] a, [role=application] a:visited {
   color: #ccc;
 }

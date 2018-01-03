@@ -47,6 +47,8 @@
 
 ## Onboarding program
 
+![Logo](assets/images/onboarding.jpg)
+
 Steps for new members to quickly get to internal processes
 
 - Internal candidates                                                <!-- .element: class="fragment" -->

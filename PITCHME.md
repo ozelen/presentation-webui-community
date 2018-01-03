@@ -3,9 +3,21 @@
 # <span class="gold">MK</span> Web UI Community
 
 #### Introduction
+
+[Presentation Link](https://github.com/ozelen/presentation-webui-community)
+
 <br>
 <br>
 <span class="byline">by Oleksiy Zelenyuk</span>
+
+#VSLIDE
+
+# About me
+![Me](assets/images/knowledge-sharing.png)
+
+- ozelen@softserveinc.com
+- Tel. 1531 (int)
+- Github: [ozelen](https://github.com/ozelen/)
 
 #VSLIDE
 
@@ -35,36 +47,47 @@
 
 #VSLIDE
 
-## Knowledge Sharing
+# Knowledge Sharing
 
 ![Logo](assets/images/knowledge-sharing.png)
 
+#VSLIDE
+
+## Knowledge Sharing
+
 - Spread experience   <!-- .element: class="fragment" -->
 - Make Tech Proposals <!-- .element: class="fragment" -->
+- Present documents   <!-- .element: class="fragment" -->
 - Socialize           <!-- .element: class="fragment" -->
 
 #VSLIDE
 
 # Onboarding
 
-![Logo](assets/images/onboarding.jpg)
+![Logo](assets/images/manual.jpg)
 
 #VSLIDE
 
 ## Onboarding program
 
-Steps for new members to quickly get to internal processes
+Steps for new members to quickly get to join
 
 - Internal candidates                                                <!-- .element: class="fragment" -->
 - 1-2 weeks to start performing                                      <!-- .element: class="fragment" -->
-- Discover internal libs and frameworks (FEF, PCAS, Dev Layout, etc) <!-- .element: class="fragment" -->
+- Discover internal libs and frameworks                              <!-- .element: class="fragment" -->
 - Internal tools and processes like (Git, Jira flow, etc)            <!-- .element: class="fragment" -->
 
 #VSLIDE
 
-## Bootcamp for candidates
+# Bootcamp
 
-Intesive course for Mid-level developers coming from other tech stacks.
+![Logo](assets/images/onboarding.jpg)
+
+#VSLIDE
+
+## Bootcamp program
+
+Intesive course for Mid-level developers coming from other companies and tech stacks.
 
 - External candidates                                 <!-- .element: class="fragment" -->
 - 2-3 Weeks course                                    <!-- .element: class="fragment" -->

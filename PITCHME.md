@@ -12,7 +12,11 @@
 
 #VSLIDE
 
-# About me
+# About Me
+
+#VSLIDE
+
+## Oleksiy Zelenyuk
 ![Me](assets/images/me.png)
 
 - ozelen@softserveinc.com
@@ -31,7 +35,7 @@
 ## Currently
 
 - COE Solutions                           <!-- .element: class="fragment" -->
-- Architect at MK for 4 months            <!-- .element: class="fragment" -->
+- Architect at MK for last 4 months       <!-- .element: class="fragment" -->
 - Discover and kickstart new projects     <!-- .element: class="fragment" -->
 - Onboarding new comers                   <!-- .element: class="fragment" -->
 - Responsible for Web UI comptence group  <!-- .element: class="fragment" -->
@@ -56,7 +60,6 @@
 
 1. Knowledge sharing       <!-- .element: class="fragment" -->
 1. Onboarding new members  <!-- .element: class="fragment" -->
-1. Bootcamp for candidates <!-- .element: class="fragment" -->
 1. Career & Experience     <!-- .element: class="fragment" -->
 
 #VSLIDE
@@ -104,7 +107,16 @@ Intesive course for Mid-level developers coming from other companies and tech st
 - External candidates                                 <!-- .element: class="fragment" -->
 - 2-3 Weeks course                                    <!-- .element: class="fragment" -->
 - Change tech stack to the current one                <!-- .element: class="fragment" -->
-- Tools and approaches are close to the client's ones <!-- .element: class="fragment" -->
+- Tools are same as we use                            <!-- .element: class="fragment" -->
+
+#VSLIDE
+
+## Cities
+
+1. Lviv <!-- .element: class="fragment" -->
+1. Kyiv <!-- .element: class="fragment" -->
+1. Kharkiv <!-- .element: class="fragment" -->
+1. Dnipro <!-- .element: class="fragment" -->
 
 #VSLIDE
 
@@ -126,7 +138,10 @@ Things that work:
 
 #HSLIDE
 
-## How to
+## How you can help
 
-1. Share knowledge/proposal <!-- .element: class="fragment" -->
-1. Become a trainer         <!-- .element: class="fragment" -->
+- Vote for topic you want to listen <!-- .element: class="fragment" -->
+- Propose topic you want present <!-- .element: class="fragment" -->
+- Prepare presentation or workshop <!-- .element: class="fragment" -->
+- Present on internal syncups
+- Conduct Bootcamp
